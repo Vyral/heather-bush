@@ -1,5 +1,5 @@
 audit_header: false
-title: -- MARKET -- Real Estate Video Blog with -- CLIENT NAME --
+title: VA Foodie Blog
 description: Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.
 show_custom_links: false
 custom_links:
@@ -11,7 +11,7 @@ custom_links_new_tab:
     url:
 
 client:
-  name:
+  name: Heather Palmer Bush
   title:
   license_number:
   about_markdown: |
@@ -20,32 +20,32 @@ client:
   brokerage:
   market:
   address:
-  phone:
+  phone: 757-478-8540
   phone_type:
   phone2:
   phone2_type:
-  email:
+  email: heather@lonniebush.com
   url:
 
 CTAs:
-  first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
-  second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  # first_CTA_text: Home Valuation
+  # first_CTA_URL: /homevalue/
+  # second_CTA_text: Home Search
+  # second_CTA_URL: /homesearch/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
-    CTA_title: "What’s Your -- MARKET -- Home Worth?"
-    CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
-    CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+    CTA_title: "Have a Question?"
+    CTA_text: "I can help clarify concerns you might have."
+    CTA_link_text: "Contact Me"
+    CTA_url: /contact/
 
-second_sidebar_CTA:
-  - CTA_image_path2: /img/cta-images/002.jpg
-    CTA_title2: "Looking for a -- MARKET -- Home?"
-    CTA_text2: "Search the entire MLS for your -- MARKET -- home."
-    CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+# second_sidebar_CTA:
+#   - CTA_image_path2: /img/cta-images/002.jpg
+#     CTA_title2: "Looking for a -- MARKET -- Home?"
+#     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
+#     CTA_link_text2: "Search the MLS"
+#     CTA_url2: /homesearch/
 
 lender:
   show_section: false
@@ -66,7 +66,7 @@ socials:
   linkedin_url:
   youtube_url:
   twitter_url:
-  instagram_url:
+  instagram_url: https://www.instagram.com/strangegirlunstuck/
   pinterest_url:
   zillow_url:
   trulia_url:
@@ -94,8 +94,8 @@ images:
   post_cta_image2: /img/home-search.jpg
 
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#8C2A2A'
+  theme_color: '#261717'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -112,7 +112,7 @@ buttons:
   button_padding_height_number: 15
   button_border_color: '#ffffff'
   button_background_color: transparent
-  button_text_color: '#123456'
+  button_text_color: '#D9725B'
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
   secondary_button_text_color: '#ffffff'
